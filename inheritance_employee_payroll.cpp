@@ -84,6 +84,7 @@ public :
        calculate_salary_components(BP);
        display();
        count_emp++;
+       role = "x";
    }
 };
 
